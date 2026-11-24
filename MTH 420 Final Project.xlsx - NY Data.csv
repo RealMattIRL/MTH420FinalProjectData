@@ -1,4 +1,4 @@
-Number of People,,,,Degrees Fahrenheit (°F),,,Percentage (%),,Inches (in),Percentage (%),Percentage (%),Degrees Fahrenheit (°F),Degrees Fahrenheit (°F),Degrees Fahrenheit (°F),Migawatt-hours (MWh)
+Number of People,,,,Degrees Fahrenheit (°F),,,Percentage (%),,Inches (in),Percentage (%),Percentage (%),Degrees Fahrenheit (°F),Degrees Fahrenheit (°F),Degrees Fahrenheit (°F),Megawatt-hours (MWh)
 Population (in thousands),Year,Month,State,Cooling Degree Days,Palmer Drought Severity Index,Palmer Z-index,Area Percentage Water,Climate Category,Precipitation Anomaly,Area Percentage Cold Highs ,Area Percentage Cold Lows ,Average Temperature Spring,Average Temperature Summer,Average Temperature Fall,Residential Electricity Consumption 
 19002,2000,1,NY,0,0.39,0.88,13.62,Cold,-1.72,0,0,3,0.92,-0.65,4059443
 19002,2000,2,NY,0,0.55,0.6,13.62,Cold,-1.72,0,0,3,0.92,-0.65,3717704
